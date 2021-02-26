@@ -6,7 +6,7 @@ and showing IMU data in a Textview
 
 ## Technical Description:
 *	I have used own create Phone Orientation Data sdk for this
-SDK URL: https://github.com/darshna5/phoneorientationdata-library
+*	SDK URL: https://github.com/darshna5/phoneorientationdata-library
 
 ## App Snapshot:
 ![](doc/screenshot.png)
